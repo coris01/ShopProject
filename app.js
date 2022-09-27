@@ -12,7 +12,7 @@ const errorController = require('./controllers/error');
 const User = require('./models/user');
 
 const MONGODB_URI =
-  'mongodb+srv://divyansh:divyansh123@cluster0.ovhcg1f.mongodb.net/shop?retryWrites=true&w=majority';
+  'Cannot show here';
 
 const app = express();
 const store = new MongoDBStore({
